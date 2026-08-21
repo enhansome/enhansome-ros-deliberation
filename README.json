@@ -17,7 +17,7 @@
                 "last_commit": "2026-07-28T11:49:32Z",
                 "owner": "PlanSys2",
                 "repo": "ros2_planning_system",
-                "stars": 488
+                "stars": 489
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2025-06-09T09:18:48Z",
                 "owner": "RobotLabLTH",
                 "repo": "SkiROS2",
-                "stars": 231
+                "stars": 232
               }
             },
             {
@@ -99,7 +99,7 @@
                 "last_commit": "2026-08-14T09:33:37Z",
                 "owner": "BehaviorTree",
                 "repo": "BehaviorTree.CPP",
-                "stars": 4164
+                "stars": 4165
               }
             },
             {
@@ -129,7 +129,7 @@
                 "last_commit": "2025-11-25T09:22:51Z",
                 "owner": "BehaviorTree",
                 "repo": "BehaviorTree.ROS2",
-                "stars": 334
+                "stars": 335
               }
             },
             {
@@ -241,7 +241,7 @@
                 "last_commit": "2026-08-03T22:08:23Z",
                 "owner": "sea-bass",
                 "repo": "pyrobosim",
-                "stars": 383
+                "stars": 384
               }
             },
             {
@@ -335,7 +335,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T02:30:41.357Z",
+    "last_updated": "2026-08-21T02:37:08.096Z",
     "original_repository": "ros-wg-delib/awesome-ros-deliberation",
     "original_repository_id": 638170357,
     "original_repository_sha": "f42a2cb53c39d9f68632cd6b23dc59d651454ac0",
