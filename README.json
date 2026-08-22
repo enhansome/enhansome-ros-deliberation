@@ -99,7 +99,7 @@
                 "last_commit": "2026-08-14T09:33:37Z",
                 "owner": "BehaviorTree",
                 "repo": "BehaviorTree.CPP",
-                "stars": 4165
+                "stars": 4168
               }
             },
             {
@@ -335,7 +335,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T02:37:08.096Z",
+    "last_updated": "2026-08-22T02:20:58.270Z",
     "original_repository": "ros-wg-delib/awesome-ros-deliberation",
     "original_repository_id": 638170357,
     "original_repository_sha": "f42a2cb53c39d9f68632cd6b23dc59d651454ac0",
