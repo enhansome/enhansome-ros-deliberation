@@ -99,7 +99,7 @@
                 "last_commit": "2026-08-14T09:33:37Z",
                 "owner": "BehaviorTree",
                 "repo": "BehaviorTree.CPP",
-                "stars": 4168
+                "stars": 4170
               }
             },
             {
@@ -204,7 +204,7 @@
                 "last_commit": "2026-05-20T02:59:41Z",
                 "owner": "FlexBE",
                 "repo": "flexbe_behavior_engine",
-                "stars": 74
+                "stars": 75
               }
             },
             {
@@ -256,7 +256,7 @@
                 "last_commit": "2026-01-07T03:00:20Z",
                 "owner": "osrf",
                 "repo": "nexus",
-                "stars": 58
+                "stars": 59
               }
             },
             {
@@ -297,7 +297,7 @@
             "last_commit": "2026-08-03T16:32:27Z",
             "owner": "sea-bass",
             "repo": "turtlebot3_behavior_demos",
-            "stars": 420
+            "stars": 419
           }
         },
         {
@@ -335,7 +335,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T02:20:58.270Z",
+    "last_updated": "2026-08-23T02:37:17.778Z",
     "original_repository": "ros-wg-delib/awesome-ros-deliberation",
     "original_repository_id": 638170357,
     "original_repository_sha": "f42a2cb53c39d9f68632cd6b23dc59d651454ac0",
