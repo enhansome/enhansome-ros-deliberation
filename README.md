@@ -27,10 +27,10 @@ For an introduction to robot deliberation, refer to [Ingrand and Ghallab (2017)]
 ### Task Planning and Execution Frameworks
 
 * [PlanSys2](https://github.com/PlanSys2/ros2_planning_system) ⭐ 489 | 🐛 45 | 🌐 C++ | 📅 2026-07-28 - PDDL planning and execution framework, using C++ and behavior trees.
-* [MoveIt Task Constructor](https://github.com/ros-planning/moveit_task_constructor) ⭐ 282 | 🐛 113 | 🌐 C++ | 📅 2026-08-17 - MoveIt add-on package that performs skeleton-based task and motion planning.
+* [MoveIt Task Constructor](https://github.com/ros-planning/moveit_task_constructor) ⭐ 283 | 🐛 113 | 🌐 C++ | 📅 2026-08-17 - MoveIt add-on package that performs skeleton-based task and motion planning.
 * [SkiROS2](https://github.com/RVMI/skiros2) ⭐ 232 | 🐛 47 | 🌐 Python | 📅 2025-06-09 - Skill-based platform with behavior trees, PDDL task-planning and knowledge integration.
 * [MERLIN2](https://github.com/MERLIN2-ARCH/merlin2) ⭐ 38 | 🐛 0 | 🌐 Python | 📅 2025-05-02 - PDDL planning and execution framework, using Python and state machines.
-* [UP4ROS2](https://github.com/aiplan4eu/UP4ROS2) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2023-05-30 - ROS 2 wrapper for the [AIPlan4EU Unified Planning library](https://github.com/aiplan4eu/unified-planning) ⭐ 315 | 🐛 58 | 🌐 Python | 📅 2026-08-21.
+* [UP4ROS2](https://github.com/aiplan4eu/UP4ROS2) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2023-05-30 - ROS 2 wrapper for the [AIPlan4EU Unified Planning library](https://github.com/aiplan4eu/unified-planning) ⭐ 315 | 🐛 48 | 🌐 Python | 📅 2026-08-24.
 * [CoSTAR Stack](http://cpaxton.github.io/costar_stack/) - A collaborative system for task automation and recognition.
 
 ### Behavior Abstractions
