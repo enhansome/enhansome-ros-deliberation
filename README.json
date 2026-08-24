@@ -144,7 +144,7 @@
                 "last_commit": "2026-08-08T16:00:34Z",
                 "owner": "uleroboticsgroup",
                 "repo": "yasmin",
-                "stars": 274
+                "stars": 275
               }
             },
             {
@@ -335,7 +335,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T02:37:17.778Z",
+    "last_updated": "2026-08-24T02:37:35.495Z",
     "original_repository": "ros-wg-delib/awesome-ros-deliberation",
     "original_repository_id": 638170357,
     "original_repository_sha": "f42a2cb53c39d9f68632cd6b23dc59d651454ac0",
