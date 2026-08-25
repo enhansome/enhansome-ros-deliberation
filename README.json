@@ -17,7 +17,7 @@
                 "last_commit": "2026-07-28T11:49:32Z",
                 "owner": "PlanSys2",
                 "repo": "ros2_planning_system",
-                "stars": 489
+                "stars": 490
               }
             },
             {
@@ -335,7 +335,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:35:23.151Z",
+    "last_updated": "2026-08-25T02:31:21.848Z",
     "original_repository": "ros-wg-delib/awesome-ros-deliberation",
     "original_repository_id": 638170357,
     "original_repository_sha": "f42a2cb53c39d9f68632cd6b23dc59d651454ac0",
