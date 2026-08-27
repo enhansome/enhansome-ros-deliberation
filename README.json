@@ -47,7 +47,7 @@
                 "last_commit": "2025-06-09T09:18:48Z",
                 "owner": "RobotLabLTH",
                 "repo": "SkiROS2",
-                "stars": 232
+                "stars": 233
               }
             },
             {
@@ -99,7 +99,7 @@
                 "last_commit": "2026-08-14T09:33:37Z",
                 "owner": "BehaviorTree",
                 "repo": "BehaviorTree.CPP",
-                "stars": 4171
+                "stars": 4174
               }
             },
             {
@@ -129,7 +129,7 @@
                 "last_commit": "2025-11-25T09:22:51Z",
                 "owner": "BehaviorTree",
                 "repo": "BehaviorTree.ROS2",
-                "stars": 335
+                "stars": 336
               }
             },
             {
@@ -335,9 +335,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T02:39:17.232Z",
-    "original_repository": "ros-wg-delib/awesome-ros-deliberation",
-    "original_repository_id": 638170357,
+    "last_updated": "2026-08-27T11:12:15.342Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 638170357,
+      "language": null,
+      "last_commit": "2026-03-16T10:35:23Z",
+      "owner": "ros-wg-delib",
+      "repo": "awesome-ros-deliberation",
+      "stars": 188
+    },
     "original_repository_sha": "f42a2cb53c39d9f68632cd6b23dc59d651454ac0",
     "enhanced_repository": "enhansome/enhansome-ros-deliberation",
     "enhanced_repository_description": null,
