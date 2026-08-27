@@ -26,11 +26,11 @@ For an introduction to robot deliberation, refer to [Ingrand and Ghallab (2017)]
 
 ### Task Planning and Execution Frameworks
 
-* [PlanSys2](https://github.com/PlanSys2/ros2_planning_system) ⭐ 490 | 🐛 45 | 🌐 C++ | 📅 2026-07-28 - PDDL planning and execution framework, using C++ and behavior trees.
+* [PlanSys2](https://github.com/PlanSys2/ros2_planning_system) ⭐ 490 | 🐛 44 | 🌐 C++ | 📅 2026-07-28 - PDDL planning and execution framework, using C++ and behavior trees.
 * [MoveIt Task Constructor](https://github.com/ros-planning/moveit_task_constructor) ⭐ 283 | 🐛 113 | 🌐 C++ | 📅 2026-08-17 - MoveIt add-on package that performs skeleton-based task and motion planning.
-* [SkiROS2](https://github.com/RVMI/skiros2) ⭐ 233 | 🐛 47 | 🌐 Python | 📅 2025-06-09 - Skill-based platform with behavior trees, PDDL task-planning and knowledge integration.
+* [SkiROS2](https://github.com/RVMI/skiros2) ⭐ 233 | 🐛 45 | 🌐 Python | 📅 2025-06-09 - Skill-based platform with behavior trees, PDDL task-planning and knowledge integration.
 * [MERLIN2](https://github.com/MERLIN2-ARCH/merlin2) ⭐ 38 | 🐛 0 | 🌐 Python | 📅 2025-05-02 - PDDL planning and execution framework, using Python and state machines.
-* [UP4ROS2](https://github.com/aiplan4eu/UP4ROS2) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2023-05-30 - ROS 2 wrapper for the [AIPlan4EU Unified Planning library](https://github.com/aiplan4eu/unified-planning) ⭐ 315 | 🐛 49 | 🌐 Python | 📅 2026-08-25.
+* [UP4ROS2](https://github.com/aiplan4eu/UP4ROS2) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2023-05-30 - ROS 2 wrapper for the [AIPlan4EU Unified Planning library](https://github.com/aiplan4eu/unified-planning) ⭐ 315 | 🐛 48 | 🌐 Python | 📅 2026-08-25.
 * [CoSTAR Stack](http://cpaxton.github.io/costar_stack/) - A collaborative system for task automation and recognition.
 
 ### Behavior Abstractions
@@ -42,7 +42,7 @@ For an introduction to robot deliberation, refer to [Ingrand and Ghallab (2017)]
 * [PyTrees ROS](https://github.com/splintered-reality/py_trees_ros) ⭐ 228 | 🐛 20 | 🌐 Python | 📅 2026-07-16 - ROS 2 wrapper for the [PyTrees](https://github.com/splintered-reality/py_trees) ⭐ 634 | 🐛 25 | 🌐 Python | 📅 2026-08-26 behavior tree library.
 * [BT Studio](https://github.com/JdeRobot/bt-studio) ⭐ 121 | 🐛 4 | 🌐 Python | 📅 2026-07-31 - A web IDE for development of behavior trees. Uses PyTrees internally, but leverages the XML representation in BehaviorTree.CPP to define trees.
 * [ros\_bt\_py](https://github.com/fzi-forschungszentrum-informatik/ros2_ros_bt_py) ⭐ 113 | 🐛 19 | 🌐 Python | 📅 2026-08-13 - ROS 2 and Python based library for behavior trees, with a ReactJS based web GUI.
-* [FlexBE](https://github.com/FlexBE/flexbe_behavior_engine) ⭐ 75 | 🐛 3 | 🌐 Python | 📅 2026-05-20 - State machine implementation with web-based GUI.
+* [FlexBE](https://github.com/FlexBE/flexbe_behavior_engine) ⭐ 75 | 🐛 2 | 🌐 Python | 📅 2026-05-20 - State machine implementation with web-based GUI.
 * [soar\_ros](https://github.com/THA-Embedded-Systems-Lab/soar_ros) ⭐ 19 | 🐛 3 | 🌐 C++ | 📅 2026-08-17 - ROS 2 package including the Soar cognitive architecture with logic to handle synchronization between ROS and Soar.
 
 ### Application-Specific Packages
