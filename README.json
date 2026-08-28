@@ -17,8 +17,9 @@
                 "last_commit": "2026-07-28T11:49:32Z",
                 "owner": "PlanSys2",
                 "repo": "ros2_planning_system",
-                "stars": 490
-              }
+                "stars": 491
+              },
+              "first_seen": "2026-08-28T12:46:45.465Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "moveit",
                 "repo": "moveit_task_constructor",
                 "stars": 283
-              }
+              },
+              "first_seen": "2026-08-28T12:46:45.465Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "RobotLabLTH",
                 "repo": "SkiROS2",
                 "stars": 233
-              }
+              },
+              "first_seen": "2026-08-28T12:46:45.465Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "MERLIN2-ARCH",
                 "repo": "merlin2",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-28T12:46:45.465Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "aiplan4eu",
                 "repo": "UP4ROS2",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T12:46:45.465Z"
             }
           ],
           "description": null,
@@ -100,7 +105,8 @@
                 "owner": "BehaviorTree",
                 "repo": "BehaviorTree.CPP",
                 "stars": 4174
-              }
+              },
+              "first_seen": "2026-08-28T12:46:45.465Z"
             },
             {
               "node_type": "item",
@@ -115,7 +121,8 @@
                 "owner": "robosoft-ai",
                 "repo": "SMACC2",
                 "stars": 369
-              }
+              },
+              "first_seen": "2026-08-28T12:46:45.465Z"
             },
             {
               "node_type": "item",
@@ -130,7 +137,8 @@
                 "owner": "BehaviorTree",
                 "repo": "BehaviorTree.ROS2",
                 "stars": 336
-              }
+              },
+              "first_seen": "2026-08-28T12:46:45.465Z"
             },
             {
               "node_type": "item",
@@ -145,7 +153,8 @@
                 "owner": "uleroboticsgroup",
                 "repo": "yasmin",
                 "stars": 275
-              }
+              },
+              "first_seen": "2026-08-28T12:46:45.465Z"
             },
             {
               "node_type": "item",
@@ -160,7 +169,8 @@
                 "owner": "splintered-reality",
                 "repo": "py_trees_ros",
                 "stars": 228
-              }
+              },
+              "first_seen": "2026-08-28T12:46:45.465Z"
             },
             {
               "node_type": "item",
@@ -175,7 +185,8 @@
                 "owner": "JdeRobot",
                 "repo": "bt-studio",
                 "stars": 121
-              }
+              },
+              "first_seen": "2026-08-28T12:46:45.465Z"
             },
             {
               "node_type": "item",
@@ -190,7 +201,8 @@
                 "owner": "fzi-forschungszentrum-informatik",
                 "repo": "ros2_ros_bt_py",
                 "stars": 113
-              }
+              },
+              "first_seen": "2026-08-28T12:46:45.465Z"
             },
             {
               "node_type": "item",
@@ -205,7 +217,8 @@
                 "owner": "FlexBE",
                 "repo": "flexbe_behavior_engine",
                 "stars": 75
-              }
+              },
+              "first_seen": "2026-08-28T12:46:45.465Z"
             },
             {
               "node_type": "item",
@@ -220,7 +233,8 @@
                 "owner": "THA-Embedded-Systems-Lab",
                 "repo": "soar_ros",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T12:46:45.465Z"
             }
           ],
           "description": null,
@@ -242,7 +256,8 @@
                 "owner": "sea-bass",
                 "repo": "pyrobosim",
                 "stars": 384
-              }
+              },
+              "first_seen": "2026-08-28T12:46:45.465Z"
             },
             {
               "node_type": "item",
@@ -257,7 +272,8 @@
                 "owner": "osrf",
                 "repo": "nexus",
                 "stars": 59
-              }
+              },
+              "first_seen": "2026-08-28T12:46:45.465Z"
             },
             {
               "node_type": "item",
@@ -272,7 +288,8 @@
                 "owner": "open-rmf",
                 "repo": "rmf_task",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T12:46:45.465Z"
             }
           ],
           "description": null,
@@ -298,7 +315,8 @@
             "owner": "sea-bass",
             "repo": "turtlebot3_behavior_demos",
             "stars": 419
-          }
+          },
+          "first_seen": "2026-08-28T12:46:45.465Z"
         },
         {
           "node_type": "item",
@@ -313,7 +331,8 @@
             "owner": "ros-wg-delib",
             "repo": "examples",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-28T12:46:45.465Z"
         },
         {
           "node_type": "item",
@@ -328,14 +347,15 @@
             "owner": "ros-wg-delib",
             "repo": "rl_deliberation",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-28T12:46:45.465Z"
         }
       ],
       "title": "Demos"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:00:31.973Z",
+    "last_updated": "2026-08-28T12:46:45.465Z",
     "original_repository_info": {
       "archived": false,
       "id": 638170357,
