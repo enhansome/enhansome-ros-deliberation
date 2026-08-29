@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repo contains a PDDL-based planning system for ROS2.",
+                "homepage": null,
                 "id": 222429916,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-28T11:49:32Z",
+                "open_issues": 44,
                 "owner": "PlanSys2",
                 "repo": "ros2_planning_system",
-                "stars": 491
+                "stars": 491,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:46:45.465Z"
             },
@@ -28,12 +33,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A hierarchical multi-stage manipulation planner",
+                "homepage": "https://moveit.github.io/moveit_task_constructor",
                 "id": 84737486,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-17T12:50:14Z",
+                "open_issues": 112,
                 "owner": "moveit",
                 "repo": "moveit_task_constructor",
-                "stars": 283
+                "stars": 283,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:46:45.465Z"
             },
@@ -44,12 +54,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A skill-based platform for ROS v.2 with knowledge representating, planning and reasoning",
+                "homepage": null,
                 "id": 111673417,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-06-09T09:18:48Z",
+                "open_issues": 45,
                 "owner": "RobotLabLTH",
                 "repo": "SkiROS2",
-                "stars": 233
+                "stars": 233,
+                "topics": [
+                  "behavior-trees",
+                  "knowledge-graph",
+                  "planning",
+                  "robotics",
+                  "ros",
+                  "skills",
+                  "world-model"
+                ]
               },
               "first_seen": "2026-08-28T12:46:45.465Z"
             },
@@ -60,12 +83,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MERLIN 2 (MachinEd Ros 2 pLanINg) for ROS 2",
+                "homepage": "https://merlin2.readthedocs.io/en/latest/",
                 "id": 584782067,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2025-05-02T08:38:19Z",
+                "open_issues": 0,
                 "owner": "MERLIN2-ARCH",
                 "repo": "merlin2",
-                "stars": 38
+                "stars": 38,
+                "topics": [
+                  "cognitive-architecture",
+                  "robotics",
+                  "ros2"
+                ]
               },
               "first_seen": "2026-08-28T12:46:45.465Z"
             },
@@ -76,12 +108,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository contains a ROS 2 wrapper for the AIPlan4EU Unified Planning library available at https://github.com/aiplan4eu/unified-planning.",
+                "homepage": null,
                 "id": 617949791,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-05-30T07:04:10Z",
+                "open_issues": 0,
                 "owner": "aiplan4eu",
                 "repo": "UP4ROS2",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:46:45.465Z"
             }
@@ -99,12 +136,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Behavior Trees Library in C++. Batteries included.",
+                "homepage": "https://behaviortree.dev",
                 "id": 153316914,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-08-14T09:33:37Z",
+                "open_issues": 56,
                 "owner": "BehaviorTree",
                 "repo": "BehaviorTree.CPP",
-                "stars": 4174
+                "stars": 4175,
+                "topics": [
+                  "ai",
+                  "behaviortree",
+                  "coordination",
+                  "games",
+                  "robotics",
+                  "ros",
+                  "state-machine"
+                ]
               },
               "first_seen": "2026-08-28T12:46:45.465Z"
             },
@@ -115,12 +165,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Event-Driven, Asynchronous, Behavioral State Machine Library for ROS2 (Robotic Operating System) applications written in C++ ",
+                "homepage": "https://smacc2.robosoft.ai",
                 "id": 300013231,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-17T07:42:22Z",
+                "open_issues": 3,
                 "owner": "robosoft-ai",
                 "repo": "SMACC2",
-                "stars": 369
+                "stars": 369,
+                "topics": [
+                  "amr",
+                  "autonomy",
+                  "cplusplus",
+                  "cpp",
+                  "mobile-robots",
+                  "mobilerobots",
+                  "moveit2",
+                  "nav2",
+                  "ros2",
+                  "ros2-foxy",
+                  "ros2-humble",
+                  "ros2-jazzy",
+                  "state-machine"
+                ]
               },
               "first_seen": "2026-08-28T12:46:45.465Z"
             },
@@ -131,12 +200,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BehaviorTree.CPP utilities to work with ROS2",
+                "homepage": null,
                 "id": 504895694,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2025-11-25T09:22:51Z",
+                "open_issues": 47,
                 "owner": "BehaviorTree",
                 "repo": "BehaviorTree.ROS2",
-                "stars": 336
+                "stars": 336,
+                "topics": [
+                  "ros2"
+                ]
               },
               "first_seen": "2026-08-28T12:46:45.465Z"
             },
@@ -147,12 +223,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "YASMIN (Yet Another State MachINe)",
+                "homepage": "https://uleroboticsgroup.github.io/yasmin/",
                 "id": 491060086,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-08T16:00:34Z",
+                "open_issues": 0,
                 "owner": "uleroboticsgroup",
                 "repo": "yasmin",
-                "stars": 275
+                "stars": 275,
+                "topics": [
+                  "cpp",
+                  "python",
+                  "ros2",
+                  "ros2-foxy",
+                  "ros2-galactic",
+                  "ros2-humble",
+                  "ros2-iron",
+                  "ros2-jazzy",
+                  "ros2-kilted",
+                  "ros2-lyrical",
+                  "ros2-rolling",
+                  "state-machine"
+                ]
               },
               "first_seen": "2026-08-28T12:46:45.465Z"
             },
@@ -163,12 +257,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ROS extensions and implementations for py_trees",
+                "homepage": "https://py-trees-ros.readthedocs.io/",
                 "id": 82636323,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-16T15:42:10Z",
+                "open_issues": 20,
                 "owner": "splintered-reality",
                 "repo": "py_trees_ros",
-                "stars": 228
+                "stars": 228,
+                "topics": [
+                  "behaviour-trees",
+                  "python",
+                  "robotics",
+                  "ros"
+                ]
               },
               "first_seen": "2026-08-28T12:46:45.465Z"
             },
@@ -179,12 +283,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A ROS-based visual IDE for creating Behavior Trees",
+                "homepage": "https://jderobot.github.io/bt-studio/",
                 "id": 606651179,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-31T09:33:43Z",
+                "open_issues": 4,
                 "owner": "JdeRobot",
                 "repo": "bt-studio",
-                "stars": 121
+                "stars": 121,
+                "topics": [
+                  "behaviour-trees",
+                  "ros2"
+                ]
               },
               "first_seen": "2026-08-28T12:46:45.465Z"
             },
@@ -195,12 +307,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is a Behavior Tree library meant to be an alternative to SMACH, FlexBE and the like. It includes a Vue3-based web GUI and all the building blocks you need to build moderately advanced mission control Behavior Trees without writing a single line of code!",
+                "homepage": "https://fzi-forschungszentrum-informatik.github.io/ros2_ros_bt_py/",
                 "id": 731518173,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-13T15:00:41Z",
+                "open_issues": 19,
                 "owner": "fzi-forschungszentrum-informatik",
                 "repo": "ros2_ros_bt_py",
-                "stars": 113
+                "stars": 113,
+                "topics": [
+                  "behavior-tree",
+                  "ros2"
+                ]
               },
               "first_seen": "2026-08-28T12:46:45.465Z"
             },
@@ -211,12 +331,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Contains the behavior engine FlexBE.",
+                "homepage": null,
                 "id": 468107578,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-05-20T02:59:41Z",
+                "open_issues": 2,
                 "owner": "FlexBE",
                 "repo": "flexbe_behavior_engine",
-                "stars": 75
+                "stars": 75,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:46:45.465Z"
             },
@@ -227,12 +352,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A ROS 2 package integrating the Soar cognitive architecture into the ROS ecosystem.",
+                "homepage": "https://tha-embedded-systems-lab.github.io/soar_ros/",
                 "id": 856828171,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-17T07:24:46Z",
+                "open_issues": 3,
                 "owner": "THA-Embedded-Systems-Lab",
                 "repo": "soar_ros",
-                "stars": 19
+                "stars": 19,
+                "topics": [
+                  "ai",
+                  "cognitivearchitecture",
+                  "ros2"
+                ]
               },
               "first_seen": "2026-08-28T12:46:45.465Z"
             }
@@ -250,12 +384,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "2D mobile robot simulator for behavior prototyping with optional ROS 2 interface.",
+                "homepage": "https://pyrobosim.readthedocs.io/",
                 "id": 448896667,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-03T22:08:23Z",
+                "open_issues": 6,
                 "owner": "sea-bass",
                 "repo": "pyrobosim",
-                "stars": 384
+                "stars": 384,
+                "topics": [
+                  "python",
+                  "robotics",
+                  "ros"
+                ]
               },
               "first_seen": "2026-08-28T12:46:45.465Z"
             },
@@ -266,12 +409,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A framework for orchestration",
+                "homepage": null,
                 "id": 631622242,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2026-01-07T03:00:20Z",
+                "open_issues": 30,
                 "owner": "osrf",
                 "repo": "nexus",
-                "stars": 59
+                "stars": 59,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:46:45.465Z"
             },
@@ -282,12 +430,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RMF library for managing task allocations",
+                "homepage": null,
                 "id": 344653334,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-16T07:12:22Z",
+                "open_issues": 25,
                 "owner": "open-rmf",
                 "repo": "rmf_task",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:46:45.465Z"
             }
@@ -309,12 +462,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Example repository for autonomous behaviors using TurtleBot robots and behavior trees, as well as Docker workflows in ROS based projects.",
+            "homepage": null,
             "id": 358596780,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-03T16:32:27Z",
+            "open_issues": 7,
             "owner": "sea-bass",
             "repo": "turtlebot3_behavior_demos",
-            "stars": 419
+            "stars": 419,
+            "topics": [
+              "docker",
+              "ros",
+              "turtlebot3"
+            ]
           },
           "first_seen": "2026-08-28T12:46:45.465Z"
         },
@@ -325,12 +487,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Examples on Using ROS 2 Deliberation Technologies",
+            "homepage": null,
             "id": 795548556,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-10-21T11:14:33Z",
+            "open_issues": 4,
             "owner": "ros-wg-delib",
             "repo": "examples",
-            "stars": 56
+            "stars": 56,
+            "topics": [
+              "robot-programming",
+              "robotics",
+              "ros2"
+            ]
           },
           "first_seen": "2026-08-28T12:46:45.465Z"
         },
@@ -341,12 +512,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Materials for \"Reinforcement Learning for Deliberation in ROS 2\" workshop at ROSCon 2025",
+            "homepage": null,
             "id": 1020489644,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-10-27T19:41:33Z",
+            "open_issues": 0,
             "owner": "ros-wg-delib",
             "repo": "rl_deliberation",
-            "stars": 45
+            "stars": 45,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:46:45.465Z"
         }
@@ -355,15 +531,31 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T12:46:45.465Z",
+    "last_updated": "2026-08-29T04:56:23.138Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome tools and libraries for deliberation in ROS 2.",
+      "homepage": null,
       "id": 638170357,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-03-16T10:35:23Z",
+      "open_issues": 0,
       "owner": "ros-wg-delib",
       "repo": "awesome-ros-deliberation",
-      "stars": 188
+      "stars": 188,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "behavior-tree",
+        "deliberation",
+        "hfsm",
+        "planning",
+        "robotics",
+        "ros",
+        "ros2",
+        "state-machine"
+      ]
     },
     "original_repository_sha": "f42a2cb53c39d9f68632cd6b23dc59d651454ac0",
     "enhanced_repository": "enhansome/enhansome-ros-deliberation",
