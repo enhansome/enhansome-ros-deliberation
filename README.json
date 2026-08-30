@@ -42,7 +42,7 @@
                 "open_issues": 112,
                 "owner": "moveit",
                 "repo": "moveit_task_constructor",
-                "stars": 283,
+                "stars": 284,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:46:45.465Z"
@@ -531,7 +531,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T07:53:38.036Z",
+    "last_updated": "2026-08-30T06:39:46.147Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools and libraries for deliberation in ROS 2.",

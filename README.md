@@ -27,7 +27,7 @@ For an introduction to robot deliberation, refer to [Ingrand and Ghallab (2017)]
 ### Task Planning and Execution Frameworks
 
 * [PlanSys2](https://github.com/PlanSys2/ros2_planning_system) ⭐ 491 | 🐛 44 | 🌐 C++ | 📅 2026-07-28 - PDDL planning and execution framework, using C++ and behavior trees.
-* [MoveIt Task Constructor](https://github.com/ros-planning/moveit_task_constructor) ⭐ 283 | 🐛 112 | 🌐 C++ | 📅 2026-08-17 - MoveIt add-on package that performs skeleton-based task and motion planning.
+* [MoveIt Task Constructor](https://github.com/ros-planning/moveit_task_constructor) ⭐ 284 | 🐛 112 | 🌐 C++ | 📅 2026-08-17 - MoveIt add-on package that performs skeleton-based task and motion planning.
 * [SkiROS2](https://github.com/RVMI/skiros2) ⭐ 233 | 🐛 45 | 🌐 Python | 📅 2025-06-09 - Skill-based platform with behavior trees, PDDL task-planning and knowledge integration.
 * [MERLIN2](https://github.com/MERLIN2-ARCH/merlin2) ⭐ 38 | 🐛 0 | 🌐 Python | 📅 2025-05-02 - PDDL planning and execution framework, using Python and state machines.
 * [UP4ROS2](https://github.com/aiplan4eu/UP4ROS2) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2023-05-30 - ROS 2 wrapper for the [AIPlan4EU Unified Planning library](https://github.com/aiplan4eu/unified-planning) ⭐ 316 | 🐛 48 | 🌐 Python | 📅 2026-08-25.
@@ -99,4 +99,4 @@ For an introduction to robot deliberation, refer to [Ingrand and Ghallab (2017)]
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
