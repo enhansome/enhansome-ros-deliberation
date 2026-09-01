@@ -38,7 +38,7 @@
                 "id": 84737486,
                 "language": "C++",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-08-17T12:50:14Z",
+                "last_commit": "2026-08-31T13:59:29Z",
                 "open_issues": 112,
                 "owner": "moveit",
                 "repo": "moveit_task_constructor",
@@ -141,11 +141,11 @@
                 "id": 153316914,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-08-14T09:33:37Z",
-                "open_issues": 56,
+                "last_commit": "2026-08-31T07:50:38Z",
+                "open_issues": 51,
                 "owner": "BehaviorTree",
                 "repo": "BehaviorTree.CPP",
-                "stars": 4175,
+                "stars": 4177,
                 "topics": [
                   "ai",
                   "behaviortree",
@@ -531,7 +531,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T07:02:01.918Z",
+    "last_updated": "2026-09-01T06:14:49.164Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools and libraries for deliberation in ROS 2.",
