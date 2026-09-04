@@ -21,7 +21,7 @@
                 "open_issues": 45,
                 "owner": "PlanSys2",
                 "repo": "ros2_planning_system",
-                "stars": 491,
+                "stars": 492,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:46:45.465Z"
@@ -38,7 +38,7 @@
                 "id": 84737486,
                 "language": "C++",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-01T09:09:10Z",
+                "last_commit": "2026-09-03T11:29:22Z",
                 "open_issues": 112,
                 "owner": "moveit",
                 "repo": "moveit_task_constructor",
@@ -145,7 +145,7 @@
                 "open_issues": 52,
                 "owner": "BehaviorTree",
                 "repo": "BehaviorTree.CPP",
-                "stars": 4181,
+                "stars": 4182,
                 "topics": [
                   "ai",
                   "behaviortree",
@@ -312,7 +312,7 @@
                 "id": 731518173,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-01T14:34:46Z",
+                "last_commit": "2026-09-03T13:40:37Z",
                 "open_issues": 19,
                 "owner": "fzi-forschungszentrum-informatik",
                 "repo": "ros2_ros_bt_py",
@@ -531,7 +531,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T05:47:59.921Z",
+    "last_updated": "2026-09-04T05:54:14.342Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools and libraries for deliberation in ROS 2.",
