@@ -142,7 +142,7 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-08-31T07:50:38Z",
-                "open_issues": 52,
+                "open_issues": 53,
                 "owner": "BehaviorTree",
                 "repo": "BehaviorTree.CPP",
                 "stars": 4182,
@@ -229,7 +229,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-08T16:00:34Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "uleroboticsgroup",
                 "repo": "yasmin",
                 "stars": 275,
@@ -531,7 +531,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T05:54:14.342Z",
+    "last_updated": "2026-09-05T05:45:41.245Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools and libraries for deliberation in ROS 2.",
