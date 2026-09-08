@@ -30,26 +30,26 @@ For an introduction to robot deliberation, refer to [Ingrand and Ghallab (2017)]
 * [MoveIt Task Constructor](https://github.com/ros-planning/moveit_task_constructor) ⭐ 284 | 🐛 112 | 🌐 C++ | 📅 2026-09-03 - MoveIt add-on package that performs skeleton-based task and motion planning.
 * [SkiROS2](https://github.com/RVMI/skiros2) ⭐ 233 | 🐛 45 | 🌐 Python | 📅 2025-06-09 - Skill-based platform with behavior trees, PDDL task-planning and knowledge integration.
 * [MERLIN2](https://github.com/MERLIN2-ARCH/merlin2) ⭐ 38 | 🐛 0 | 🌐 Python | 📅 2025-05-02 - PDDL planning and execution framework, using Python and state machines.
-* [UP4ROS2](https://github.com/aiplan4eu/UP4ROS2) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2023-05-30 - ROS 2 wrapper for the [AIPlan4EU Unified Planning library](https://github.com/aiplan4eu/unified-planning) ⭐ 318 | 🐛 46 | 🌐 Python | 📅 2026-09-04.
+* [UP4ROS2](https://github.com/aiplan4eu/UP4ROS2) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2023-05-30 - ROS 2 wrapper for the [AIPlan4EU Unified Planning library](https://github.com/aiplan4eu/unified-planning) ⭐ 318 | 🐛 50 | 🌐 Python | 📅 2026-09-07.
 * [CoSTAR Stack](http://cpaxton.github.io/costar_stack/) - A collaborative system for task automation and recognition.
 
 ### Behavior Abstractions
 
-* [AutoAPMS](https://github.com/AutoAPMS) - Modular domain-agnostic framework for developing and executing behaviors with [BehaviorTree.CPP](https://github.com/BehaviorTree/BehaviorTree.CPP) ⭐ 4,185 | 🐛 53 | 🌐 C++ | 📅 2026-08-31 integrated deeply into the ROS 2 ecosystem.
+* [AutoAPMS](https://github.com/AutoAPMS) - Modular domain-agnostic framework for developing and executing behaviors with [BehaviorTree.CPP](https://github.com/BehaviorTree/BehaviorTree.CPP) ⭐ 4,187 | 🐛 53 | 🌐 C++ | 📅 2026-08-31 integrated deeply into the ROS 2 ecosystem.
 * [SMACC2](https://github.com/robosoft-ai/SMACC2) ⭐ 371 | 🐛 3 | 🌐 C++ | 📅 2026-09-05 - State machine implementation in C++.
-* [BehaviorTree.ROS2](https://github.com/BehaviorTree/BehaviorTree.ROS2) ⭐ 338 | 🐛 47 | 🌐 C++ | 📅 2025-11-25 - ROS 2 wrapper for [BehaviorTree.CPP](https://github.com/BehaviorTree/BehaviorTree.CPP) ⭐ 4,185 | 🐛 53 | 🌐 C++ | 📅 2026-08-31, an implementation of behavior trees in C++.
+* [BehaviorTree.ROS2](https://github.com/BehaviorTree/BehaviorTree.ROS2) ⭐ 339 | 🐛 47 | 🌐 C++ | 📅 2025-11-25 - ROS 2 wrapper for [BehaviorTree.CPP](https://github.com/BehaviorTree/BehaviorTree.CPP) ⭐ 4,187 | 🐛 53 | 🌐 C++ | 📅 2026-08-31, an implementation of behavior trees in C++.
 * [YASMIN](https://github.com/uleroboticsgroup/yasmin) ⭐ 275 | 🐛 2 | 🌐 Python | 📅 2026-08-08 - State machine implementation for C++ and Python.
 * [PyTrees ROS](https://github.com/splintered-reality/py_trees_ros) ⭐ 228 | 🐛 20 | 🌐 Python | 📅 2026-07-16 - ROS 2 wrapper for the [PyTrees](https://github.com/splintered-reality/py_trees) ⭐ 636 | 🐛 24 | 🌐 Python | 📅 2026-08-26 behavior tree library.
 * [BT Studio](https://github.com/JdeRobot/bt-studio) ⭐ 121 | 🐛 4 | 🌐 Python | 📅 2026-07-31 - A web IDE for development of behavior trees. Uses PyTrees internally, but leverages the XML representation in BehaviorTree.CPP to define trees.
 * [ros\_bt\_py](https://github.com/fzi-forschungszentrum-informatik/ros2_ros_bt_py) ⭐ 113 | 🐛 19 | 🌐 Python | 📅 2026-09-03 - ROS 2 and Python based library for behavior trees, with a ReactJS based web GUI.
 * [FlexBE](https://github.com/FlexBE/flexbe_behavior_engine) ⭐ 75 | 🐛 2 | 🌐 Python | 📅 2026-05-20 - State machine implementation with web-based GUI.
-* [soar\_ros](https://github.com/THA-Embedded-Systems-Lab/soar_ros) ⭐ 19 | 🐛 3 | 🌐 C++ | 📅 2026-08-17 - ROS 2 package including the Soar cognitive architecture with logic to handle synchronization between ROS and Soar.
+* [soar\_ros](https://github.com/THA-Embedded-Systems-Lab/soar_ros) ⭐ 19 | 🐛 3 | 🌐 C++ | 📅 2026-09-07 - ROS 2 package including the Soar cognitive architecture with logic to handle synchronization between ROS and Soar.
 
 ### Application-Specific Packages
 
-* [pyrobosim](https://github.com/sea-bass/pyrobosim) ⭐ 384 | 🐛 6 | 🌐 Python | 📅 2026-08-03 - ROS 2 enabled 2D mobile robot simulator for behavior prototyping.
+* [pyrobosim](https://github.com/sea-bass/pyrobosim) ⭐ 384 | 🐛 6 | 🌐 Python | 📅 2026-09-07 - ROS 2 enabled 2D mobile robot simulator for behavior prototyping.
 * [NEXUS](https://github.com/osrf/nexus) ⭐ 59 | 🐛 30 | 🌐 C++ | 📅 2026-01-07 - A ROS 2 framework for orchestrating industrial robotic lines and cells.
-* [rmf\_task](https://github.com/open-rmf/rmf_task) ⭐ 26 | 🐛 25 | 🌐 C++ | 📅 2026-06-16 - Composable task definitions and multi-robot task allocation (MRTA) planner in C++.
+* [rmf\_task](https://github.com/open-rmf/rmf_task) ⭐ 26 | 🐛 24 | 🌐 C++ | 📅 2026-09-07 - Composable task definitions and multi-robot task allocation (MRTA) planner in C++.
 * [MoveIt Pro](https://picknik.ai/pro/) - ROS 2 based commercial software that uses BehaviorTree.CPP and MoveIt.
 
 ## Presentations
@@ -89,7 +89,7 @@ For an introduction to robot deliberation, refer to [Ingrand and Ghallab (2017)]
 
 ## Demos
 
-* [TurtleBot 3 Behavior Demos](https://github.com/sea-bass/turtlebot3_behavior_demos) ⭐ 419 | 🐛 7 | 🌐 Python | 📅 2026-08-03 - Examples of behavior trees for navigation actions in C++ and Python.
+* [TurtleBot 3 Behavior Demos](https://github.com/sea-bass/turtlebot3_behavior_demos) ⭐ 419 | 🐛 7 | 🌐 Python | 📅 2026-09-07 - Examples of behavior trees for navigation actions in C++ and Python.
 * [Hands-On with ROS 2 Deliberation Technologies](https://github.com/ros-wg-delib/roscon24-workshop) ⭐ 56 | 🐛 4 | 🌐 Python | 📅 2025-10-21 - Workshop presented at ROSCon 2024, organized by the ROS Deliberation Community Group.
 * [Reinforcement Learning for Deliberation in ROS 2](https://github.com/ros-wg-delib/rl_deliberation) ⭐ 45 | 🐛 0 | 🌐 Python | 📅 2025-10-27 - Workshop presented at ROSCon 2025, organized by the ROS Deliberation Community Group.
 * [CoSTAR: Instructing Collaborative Robots with Behavior Trees and Vision](https://www.youtube.com/watch?v=eGdwl1dmTrA) - CoSTAR demos like sanding, pick & place and robot instruction.
@@ -99,4 +99,4 @@ For an introduction to robot deliberation, refer to [Ingrand and Ghallab (2017)]
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
