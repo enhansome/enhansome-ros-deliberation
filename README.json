@@ -38,11 +38,11 @@
                 "id": 84737486,
                 "language": "C++",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-03T11:29:22Z",
-                "open_issues": 113,
+                "last_commit": "2026-09-10T06:38:31Z",
+                "open_issues": 112,
                 "owner": "moveit",
                 "repo": "moveit_task_constructor",
-                "stars": 284,
+                "stars": 285,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:46:45.465Z"
@@ -142,10 +142,10 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-08-31T07:50:38Z",
-                "open_issues": 52,
+                "open_issues": 53,
                 "owner": "BehaviorTree",
                 "repo": "BehaviorTree.CPP",
-                "stars": 4193,
+                "stars": 4195,
                 "topics": [
                   "ai",
                   "behaviortree",
@@ -174,7 +174,7 @@
                 "open_issues": 3,
                 "owner": "robosoft-ai",
                 "repo": "SMACC2",
-                "stars": 371,
+                "stars": 372,
                 "topics": [
                   "amr",
                   "autonomy",
@@ -262,7 +262,7 @@
                 "id": 82636323,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-07-16T15:42:10Z",
+                "last_commit": "2026-09-10T21:34:22Z",
                 "open_issues": 19,
                 "owner": "splintered-reality",
                 "repo": "py_trees_ros",
@@ -312,7 +312,7 @@
                 "id": 731518173,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-03T13:40:37Z",
+                "last_commit": "2026-09-10T14:49:57Z",
                 "open_issues": 19,
                 "owner": "fzi-forschungszentrum-informatik",
                 "repo": "ros2_ros_bt_py",
@@ -357,7 +357,7 @@
                 "id": 856828171,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-07T14:15:08Z",
+                "last_commit": "2026-09-10T09:24:50Z",
                 "open_issues": 3,
                 "owner": "THA-Embedded-Systems-Lab",
                 "repo": "soar_ros",
@@ -531,7 +531,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T05:58:30.492Z",
+    "last_updated": "2026-09-11T05:59:50.549Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools and libraries for deliberation in ROS 2.",
