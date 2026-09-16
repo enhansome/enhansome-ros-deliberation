@@ -145,7 +145,7 @@
                 "open_issues": 54,
                 "owner": "BehaviorTree",
                 "repo": "BehaviorTree.CPP",
-                "stars": 4202,
+                "stars": 4205,
                 "topics": [
                   "ai",
                   "behaviortree",
@@ -358,7 +358,7 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-15T06:09:21Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "THA-Embedded-Systems-Lab",
                 "repo": "soar_ros",
                 "stars": 20,
@@ -531,7 +531,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T06:10:12.731Z",
+    "last_updated": "2026-09-16T06:01:53.714Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools and libraries for deliberation in ROS 2.",
