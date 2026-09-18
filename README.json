@@ -42,7 +42,7 @@
                 "open_issues": 112,
                 "owner": "moveit",
                 "repo": "moveit_task_constructor",
-                "stars": 286,
+                "stars": 287,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:46:45.465Z"
@@ -170,7 +170,7 @@
                 "id": 300013231,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-05T20:45:47Z",
+                "last_commit": "2026-09-17T23:10:21Z",
                 "open_issues": 3,
                 "owner": "robosoft-ai",
                 "repo": "SMACC2",
@@ -228,7 +228,7 @@
                 "id": 491060086,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-08T10:13:43Z",
+                "last_commit": "2026-09-17T19:58:06Z",
                 "open_issues": 0,
                 "owner": "uleroboticsgroup",
                 "repo": "yasmin",
@@ -357,7 +357,7 @@
                 "id": 856828171,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-15T06:09:21Z",
+                "last_commit": "2026-09-17T17:37:46Z",
                 "open_issues": 4,
                 "owner": "THA-Embedded-Systems-Lab",
                 "repo": "soar_ros",
@@ -531,7 +531,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T06:08:27.537Z",
+    "last_updated": "2026-09-18T05:55:11.391Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools and libraries for deliberation in ROS 2.",
