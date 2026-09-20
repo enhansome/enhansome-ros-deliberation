@@ -35,9 +35,9 @@ For an introduction to robot deliberation, refer to [Ingrand and Ghallab (2017)]
 
 ### Behavior Abstractions
 
-* [AutoAPMS](https://github.com/AutoAPMS) - Modular domain-agnostic framework for developing and executing behaviors with [BehaviorTree.CPP](https://github.com/BehaviorTree/BehaviorTree.CPP) ⭐ 4,207 | 🐛 54 | 🌐 C++ | 📅 2026-08-31 integrated deeply into the ROS 2 ecosystem.
+* [AutoAPMS](https://github.com/AutoAPMS) - Modular domain-agnostic framework for developing and executing behaviors with [BehaviorTree.CPP](https://github.com/BehaviorTree/BehaviorTree.CPP) ⭐ 4,211 | 🐛 54 | 🌐 C++ | 📅 2026-08-31 integrated deeply into the ROS 2 ecosystem.
 * [SMACC2](https://github.com/robosoft-ai/SMACC2) ⭐ 373 | 🐛 3 | 🌐 C++ | 📅 2026-09-17 - State machine implementation in C++.
-* [BehaviorTree.ROS2](https://github.com/BehaviorTree/BehaviorTree.ROS2) ⭐ 339 | 🐛 47 | 🌐 C++ | 📅 2025-11-25 - ROS 2 wrapper for [BehaviorTree.CPP](https://github.com/BehaviorTree/BehaviorTree.CPP) ⭐ 4,207 | 🐛 54 | 🌐 C++ | 📅 2026-08-31, an implementation of behavior trees in C++.
+* [BehaviorTree.ROS2](https://github.com/BehaviorTree/BehaviorTree.ROS2) ⭐ 339 | 🐛 47 | 🌐 C++ | 📅 2025-11-25 - ROS 2 wrapper for [BehaviorTree.CPP](https://github.com/BehaviorTree/BehaviorTree.CPP) ⭐ 4,211 | 🐛 54 | 🌐 C++ | 📅 2026-08-31, an implementation of behavior trees in C++.
 * [YASMIN](https://github.com/uleroboticsgroup/yasmin) ⭐ 275 | 🐛 0 | 🌐 Python | 📅 2026-09-17 - State machine implementation for C++ and Python.
 * [PyTrees ROS](https://github.com/splintered-reality/py_trees_ros) ⭐ 229 | 🐛 19 | 🌐 Python | 📅 2026-09-15 - ROS 2 wrapper for the [PyTrees](https://github.com/splintered-reality/py_trees) ⭐ 637 | 🐛 22 | 🌐 Python | 📅 2026-09-17 behavior tree library.
 * [BT Studio](https://github.com/JdeRobot/bt-studio) ⭐ 121 | 🐛 4 | 🌐 Python | 📅 2026-09-11 - A web IDE for development of behavior trees. Uses PyTrees internally, but leverages the XML representation in BehaviorTree.CPP to define trees.
@@ -47,9 +47,9 @@ For an introduction to robot deliberation, refer to [Ingrand and Ghallab (2017)]
 
 ### Application-Specific Packages
 
-* [pyrobosim](https://github.com/sea-bass/pyrobosim) ⭐ 385 | 🐛 6 | 🌐 Python | 📅 2026-09-07 - ROS 2 enabled 2D mobile robot simulator for behavior prototyping.
+* [pyrobosim](https://github.com/sea-bass/pyrobosim) ⭐ 386 | 🐛 6 | 🌐 Python | 📅 2026-09-07 - ROS 2 enabled 2D mobile robot simulator for behavior prototyping.
 * [NEXUS](https://github.com/osrf/nexus) ⭐ 59 | 🐛 30 | 🌐 C++ | 📅 2026-01-07 - A ROS 2 framework for orchestrating industrial robotic lines and cells.
-* [rmf\_task](https://github.com/open-rmf/rmf_task) ⭐ 27 | 🐛 24 | 🌐 C++ | 📅 2026-09-07 - Composable task definitions and multi-robot task allocation (MRTA) planner in C++.
+* [rmf\_task](https://github.com/open-rmf/rmf_task) ⭐ 27 | 🐛 25 | 🌐 C++ | 📅 2026-09-07 - Composable task definitions and multi-robot task allocation (MRTA) planner in C++.
 * [MoveIt Pro](https://picknik.ai/pro/) - ROS 2 based commercial software that uses BehaviorTree.CPP and MoveIt.
 
 ## Presentations
@@ -91,7 +91,7 @@ For an introduction to robot deliberation, refer to [Ingrand and Ghallab (2017)]
 
 * [TurtleBot 3 Behavior Demos](https://github.com/sea-bass/turtlebot3_behavior_demos) ⭐ 419 | 🐛 7 | 🌐 Python | 📅 2026-09-07 - Examples of behavior trees for navigation actions in C++ and Python.
 * [Hands-On with ROS 2 Deliberation Technologies](https://github.com/ros-wg-delib/roscon24-workshop) ⭐ 56 | 🐛 4 | 🌐 Python | 📅 2025-10-21 - Workshop presented at ROSCon 2024, organized by the ROS Deliberation Community Group.
-* [Reinforcement Learning for Deliberation in ROS 2](https://github.com/ros-wg-delib/rl_deliberation) ⭐ 45 | 🐛 0 | 🌐 Python | 📅 2025-10-27 - Workshop presented at ROSCon 2025, organized by the ROS Deliberation Community Group.
+* [Reinforcement Learning for Deliberation in ROS 2](https://github.com/ros-wg-delib/rl_deliberation) ⭐ 44 | 🐛 0 | 🌐 Python | 📅 2025-10-27 - Workshop presented at ROSCon 2025, organized by the ROS Deliberation Community Group.
 * [CoSTAR: Instructing Collaborative Robots with Behavior Trees and Vision](https://www.youtube.com/watch?v=eGdwl1dmTrA) - CoSTAR demos like sanding, pick & place and robot instruction.
 * [Dual-arm Piston Insertion](https://www.youtube.com/watch?v=sTM0ih6faMs) - Piston insertion with kinesthetic teaching, vision, task adaption & knowledge integration.
 * [Robot Household Marathon: EASE Generative Models of Everyday Activity](https://www.youtube.com/watch?v=pv_n9FQRoZQ\&t=4s) - Setting a table with a PR2.
@@ -99,4 +99,4 @@ For an introduction to robot deliberation, refer to [Ingrand and Ghallab (2017)]
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
