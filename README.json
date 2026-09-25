@@ -145,7 +145,7 @@
                 "open_issues": 41,
                 "owner": "BehaviorTree",
                 "repo": "BehaviorTree.CPP",
-                "stars": 4217,
+                "stars": 4218,
                 "topics": [
                   "ai",
                   "behaviortree",
@@ -170,8 +170,8 @@
                 "id": 300013231,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-24T03:14:54Z",
-                "open_issues": 3,
+                "last_commit": "2026-09-24T20:33:02Z",
+                "open_issues": 4,
                 "owner": "robosoft-ai",
                 "repo": "SMACC2",
                 "stars": 374,
@@ -266,7 +266,7 @@
                 "open_issues": 19,
                 "owner": "splintered-reality",
                 "repo": "py_trees_ros",
-                "stars": 230,
+                "stars": 229,
                 "topics": [
                   "behaviour-trees",
                   "python",
@@ -531,7 +531,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T06:10:36.271Z",
+    "last_updated": "2026-09-25T06:09:54.752Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools and libraries for deliberation in ROS 2.",
@@ -543,7 +543,7 @@
       "open_issues": 0,
       "owner": "ros-wg-delib",
       "repo": "awesome-ros-deliberation",
-      "stars": 189,
+      "stars": 190,
       "topics": [
         "awesome",
         "awesome-list",
