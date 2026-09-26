@@ -145,7 +145,7 @@
                 "open_issues": 41,
                 "owner": "BehaviorTree",
                 "repo": "BehaviorTree.CPP",
-                "stars": 4218,
+                "stars": 4219,
                 "topics": [
                   "ai",
                   "behaviortree",
@@ -174,7 +174,7 @@
                 "open_issues": 4,
                 "owner": "robosoft-ai",
                 "repo": "SMACC2",
-                "stars": 374,
+                "stars": 375,
                 "topics": [
                   "amr",
                   "autonomy",
@@ -232,7 +232,7 @@
                 "open_issues": 0,
                 "owner": "uleroboticsgroup",
                 "repo": "yasmin",
-                "stars": 275,
+                "stars": 276,
                 "topics": [
                   "cpp",
                   "python",
@@ -266,7 +266,7 @@
                 "open_issues": 19,
                 "owner": "splintered-reality",
                 "repo": "py_trees_ros",
-                "stars": 229,
+                "stars": 231,
                 "topics": [
                   "behaviour-trees",
                   "python",
@@ -435,7 +435,7 @@
                 "id": 344653334,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-07T16:54:39Z",
+                "last_commit": "2026-09-25T17:34:02Z",
                 "open_issues": 25,
                 "owner": "open-rmf",
                 "repo": "rmf_task",
@@ -531,7 +531,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T06:09:54.752Z",
+    "last_updated": "2026-09-26T06:10:01.950Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools and libraries for deliberation in ROS 2.",
