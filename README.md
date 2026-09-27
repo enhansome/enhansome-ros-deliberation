@@ -35,9 +35,9 @@ For an introduction to robot deliberation, refer to [Ingrand and Ghallab (2017)]
 
 ### Behavior Abstractions
 
-* [AutoAPMS](https://github.com/AutoAPMS) - Modular domain-agnostic framework for developing and executing behaviors with [BehaviorTree.CPP](https://github.com/BehaviorTree/BehaviorTree.CPP) ⭐ 4,219 | 🐛 41 | 🌐 C++ | 📅 2026-09-21 integrated deeply into the ROS 2 ecosystem.
-* [SMACC2](https://github.com/robosoft-ai/SMACC2) ⭐ 375 | 🐛 4 | 🌐 C++ | 📅 2026-09-24 - State machine implementation in C++.
-* [BehaviorTree.ROS2](https://github.com/BehaviorTree/BehaviorTree.ROS2) ⭐ 340 | 🐛 47 | 🌐 C++ | 📅 2025-11-25 - ROS 2 wrapper for [BehaviorTree.CPP](https://github.com/BehaviorTree/BehaviorTree.CPP) ⭐ 4,219 | 🐛 41 | 🌐 C++ | 📅 2026-09-21, an implementation of behavior trees in C++.
+* [AutoAPMS](https://github.com/AutoAPMS) - Modular domain-agnostic framework for developing and executing behaviors with [BehaviorTree.CPP](https://github.com/BehaviorTree/BehaviorTree.CPP) ⭐ 4,220 | 🐛 41 | 🌐 C++ | 📅 2026-09-21 integrated deeply into the ROS 2 ecosystem.
+* [SMACC2](https://github.com/robosoft-ai/SMACC2) ⭐ 375 | 🐛 4 | 🌐 C++ | 📅 2026-09-27 - State machine implementation in C++.
+* [BehaviorTree.ROS2](https://github.com/BehaviorTree/BehaviorTree.ROS2) ⭐ 340 | 🐛 47 | 🌐 C++ | 📅 2025-11-25 - ROS 2 wrapper for [BehaviorTree.CPP](https://github.com/BehaviorTree/BehaviorTree.CPP) ⭐ 4,220 | 🐛 41 | 🌐 C++ | 📅 2026-09-21, an implementation of behavior trees in C++.
 * [YASMIN](https://github.com/uleroboticsgroup/yasmin) ⭐ 276 | 🐛 0 | 🌐 Python | 📅 2026-09-21 - State machine implementation for C++ and Python.
 * [PyTrees ROS](https://github.com/splintered-reality/py_trees_ros) ⭐ 231 | 🐛 19 | 🌐 Python | 📅 2026-09-15 - ROS 2 wrapper for the [PyTrees](https://github.com/splintered-reality/py_trees) ⭐ 639 | 🐛 22 | 🌐 Python | 📅 2026-09-17 behavior tree library.
 * [BT Studio](https://github.com/JdeRobot/bt-studio) ⭐ 121 | 🐛 4 | 🌐 Python | 📅 2026-09-11 - A web IDE for development of behavior trees. Uses PyTrees internally, but leverages the XML representation in BehaviorTree.CPP to define trees.
@@ -99,4 +99,4 @@ For an introduction to robot deliberation, refer to [Ingrand and Ghallab (2017)]
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
