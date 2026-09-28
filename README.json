@@ -21,7 +21,7 @@
                 "open_issues": 45,
                 "owner": "PlanSys2",
                 "repo": "ros2_planning_system",
-                "stars": 492,
+                "stars": 493,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:46:45.465Z"
@@ -174,7 +174,7 @@
                 "open_issues": 4,
                 "owner": "robosoft-ai",
                 "repo": "SMACC2",
-                "stars": 375,
+                "stars": 376,
                 "topics": [
                   "amr",
                   "autonomy",
@@ -340,7 +340,7 @@
                 "open_issues": 2,
                 "owner": "FlexBE",
                 "repo": "flexbe_behavior_engine",
-                "stars": 75,
+                "stars": 76,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:46:45.465Z"
@@ -531,7 +531,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T06:37:25.315Z",
+    "last_updated": "2026-09-28T06:54:06.624Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools and libraries for deliberation in ROS 2.",
