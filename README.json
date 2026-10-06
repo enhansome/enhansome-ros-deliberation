@@ -142,10 +142,10 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-10-03T12:31:15Z",
-                "open_issues": 46,
+                "open_issues": 49,
                 "owner": "BehaviorTree",
                 "repo": "BehaviorTree.CPP",
-                "stars": 4232,
+                "stars": 4233,
                 "topics": [
                   "ai",
                   "behaviortree",
@@ -209,7 +209,7 @@
                 "open_issues": 47,
                 "owner": "BehaviorTree",
                 "repo": "BehaviorTree.ROS2",
-                "stars": 342,
+                "stars": 343,
                 "topics": [
                   "ros2"
                 ]
@@ -266,7 +266,7 @@
                 "open_issues": 19,
                 "owner": "splintered-reality",
                 "repo": "py_trees_ros",
-                "stars": 232,
+                "stars": 233,
                 "topics": [
                   "behaviour-trees",
                   "python",
@@ -389,7 +389,7 @@
                 "id": 448896667,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-20T18:46:29Z",
+                "last_commit": "2026-10-05T16:33:08Z",
                 "open_issues": 6,
                 "owner": "sea-bass",
                 "repo": "pyrobosim",
@@ -467,7 +467,7 @@
             "id": 358596780,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-07T16:29:36Z",
+            "last_commit": "2026-10-05T16:56:02Z",
             "open_issues": 7,
             "owner": "sea-bass",
             "repo": "turtlebot3_behavior_demos",
@@ -531,7 +531,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T07:02:59.002Z",
+    "last_updated": "2026-10-06T07:34:39.815Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools and libraries for deliberation in ROS 2.",
