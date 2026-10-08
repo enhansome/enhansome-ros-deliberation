@@ -63,7 +63,7 @@
                 "open_issues": 45,
                 "owner": "RobotLabLTH",
                 "repo": "SkiROS2",
-                "stars": 234,
+                "stars": 235,
                 "topics": [
                   "behavior-trees",
                   "knowledge-graph",
@@ -142,10 +142,10 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-10-03T12:31:15Z",
-                "open_issues": 48,
+                "open_issues": 50,
                 "owner": "BehaviorTree",
                 "repo": "BehaviorTree.CPP",
-                "stars": 4234,
+                "stars": 4237,
                 "topics": [
                   "ai",
                   "behaviortree",
@@ -232,7 +232,7 @@
                 "open_issues": 0,
                 "owner": "uleroboticsgroup",
                 "repo": "yasmin",
-                "stars": 279,
+                "stars": 280,
                 "topics": [
                   "cpp",
                   "python",
@@ -531,7 +531,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T07:14:26.527Z",
+    "last_updated": "2026-10-08T07:24:53.489Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools and libraries for deliberation in ROS 2.",
