@@ -21,7 +21,7 @@
                 "open_issues": 45,
                 "owner": "PlanSys2",
                 "repo": "ros2_planning_system",
-                "stars": 494,
+                "stars": 495,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:46:45.465Z"
@@ -145,7 +145,7 @@
                 "open_issues": 50,
                 "owner": "BehaviorTree",
                 "repo": "BehaviorTree.CPP",
-                "stars": 4237,
+                "stars": 4239,
                 "topics": [
                   "ai",
                   "behaviortree",
@@ -209,7 +209,7 @@
                 "open_issues": 46,
                 "owner": "BehaviorTree",
                 "repo": "BehaviorTree.ROS2",
-                "stars": 343,
+                "stars": 344,
                 "topics": [
                   "ros2"
                 ]
@@ -393,7 +393,7 @@
                 "open_issues": 6,
                 "owner": "sea-bass",
                 "repo": "pyrobosim",
-                "stars": 387,
+                "stars": 388,
                 "topics": [
                   "python",
                   "robotics",
@@ -531,7 +531,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T07:24:53.489Z",
+    "last_updated": "2026-10-09T07:23:29.560Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools and libraries for deliberation in ROS 2.",

@@ -26,18 +26,18 @@ For an introduction to robot deliberation, refer to [Ingrand and Ghallab (2017)]
 
 ### Task Planning and Execution Frameworks
 
-* [PlanSys2](https://github.com/PlanSys2/ros2_planning_system) ⭐ 494 | 🐛 45 | 🌐 C++ | 📅 2026-09-02 - PDDL planning and execution framework, using C++ and behavior trees.
+* [PlanSys2](https://github.com/PlanSys2/ros2_planning_system) ⭐ 495 | 🐛 45 | 🌐 C++ | 📅 2026-09-02 - PDDL planning and execution framework, using C++ and behavior trees.
 * [MoveIt Task Constructor](https://github.com/ros-planning/moveit_task_constructor) ⭐ 290 | 🐛 112 | 🌐 C++ | 📅 2026-09-10 - MoveIt add-on package that performs skeleton-based task and motion planning.
 * [SkiROS2](https://github.com/RVMI/skiros2) ⭐ 235 | 🐛 45 | 🌐 Python | 📅 2025-06-09 - Skill-based platform with behavior trees, PDDL task-planning and knowledge integration.
 * [MERLIN2](https://github.com/MERLIN2-ARCH/merlin2) ⭐ 38 | 🐛 0 | 🌐 Python | 📅 2025-05-02 - PDDL planning and execution framework, using Python and state machines.
-* [UP4ROS2](https://github.com/aiplan4eu/UP4ROS2) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2023-05-30 - ROS 2 wrapper for the [AIPlan4EU Unified Planning library](https://github.com/aiplan4eu/unified-planning) ⭐ 323 | 🐛 50 | 🌐 Python | 📅 2026-10-07.
+* [UP4ROS2](https://github.com/aiplan4eu/UP4ROS2) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2023-05-30 - ROS 2 wrapper for the [AIPlan4EU Unified Planning library](https://github.com/aiplan4eu/unified-planning) ⭐ 323 | 🐛 52 | 🌐 Python | 📅 2026-10-08.
 * [CoSTAR Stack](http://cpaxton.github.io/costar_stack/) - A collaborative system for task automation and recognition.
 
 ### Behavior Abstractions
 
-* [AutoAPMS](https://github.com/AutoAPMS) - Modular domain-agnostic framework for developing and executing behaviors with [BehaviorTree.CPP](https://github.com/BehaviorTree/BehaviorTree.CPP) ⭐ 4,237 | 🐛 50 | 🌐 C++ | 📅 2026-10-03 integrated deeply into the ROS 2 ecosystem.
+* [AutoAPMS](https://github.com/AutoAPMS) - Modular domain-agnostic framework for developing and executing behaviors with [BehaviorTree.CPP](https://github.com/BehaviorTree/BehaviorTree.CPP) ⭐ 4,239 | 🐛 50 | 🌐 C++ | 📅 2026-10-03 integrated deeply into the ROS 2 ecosystem.
 * [SMACC2](https://github.com/robosoft-ai/SMACC2) ⭐ 380 | 🐛 4 | 🌐 C++ | 📅 2026-09-28 - State machine implementation in C++.
-* [BehaviorTree.ROS2](https://github.com/BehaviorTree/BehaviorTree.ROS2) ⭐ 343 | 🐛 46 | 🌐 C++ | 📅 2025-11-25 - ROS 2 wrapper for [BehaviorTree.CPP](https://github.com/BehaviorTree/BehaviorTree.CPP) ⭐ 4,237 | 🐛 50 | 🌐 C++ | 📅 2026-10-03, an implementation of behavior trees in C++.
+* [BehaviorTree.ROS2](https://github.com/BehaviorTree/BehaviorTree.ROS2) ⭐ 344 | 🐛 46 | 🌐 C++ | 📅 2025-11-25 - ROS 2 wrapper for [BehaviorTree.CPP](https://github.com/BehaviorTree/BehaviorTree.CPP) ⭐ 4,239 | 🐛 50 | 🌐 C++ | 📅 2026-10-03, an implementation of behavior trees in C++.
 * [YASMIN](https://github.com/uleroboticsgroup/yasmin) ⭐ 280 | 🐛 0 | 🌐 Python | 📅 2026-09-21 - State machine implementation for C++ and Python.
 * [PyTrees ROS](https://github.com/splintered-reality/py_trees_ros) ⭐ 233 | 🐛 19 | 🌐 Python | 📅 2026-09-15 - ROS 2 wrapper for the [PyTrees](https://github.com/splintered-reality/py_trees) ⭐ 641 | 🐛 22 | 🌐 Python | 📅 2026-09-17 behavior tree library.
 * [BT Studio](https://github.com/JdeRobot/bt-studio) ⭐ 121 | 🐛 4 | 🌐 Python | 📅 2026-09-11 - A web IDE for development of behavior trees. Uses PyTrees internally, but leverages the XML representation in BehaviorTree.CPP to define trees.
@@ -47,7 +47,7 @@ For an introduction to robot deliberation, refer to [Ingrand and Ghallab (2017)]
 
 ### Application-Specific Packages
 
-* [pyrobosim](https://github.com/sea-bass/pyrobosim) ⭐ 387 | 🐛 6 | 🌐 Python | 📅 2026-10-05 - ROS 2 enabled 2D mobile robot simulator for behavior prototyping.
+* [pyrobosim](https://github.com/sea-bass/pyrobosim) ⭐ 388 | 🐛 6 | 🌐 Python | 📅 2026-10-05 - ROS 2 enabled 2D mobile robot simulator for behavior prototyping.
 * [NEXUS](https://github.com/osrf/nexus) ⭐ 59 | 🐛 30 | 🌐 C++ | 📅 2026-01-07 - A ROS 2 framework for orchestrating industrial robotic lines and cells.
 * [rmf\_task](https://github.com/open-rmf/rmf_task) ⭐ 27 | 🐛 27 | 🌐 C++ | 📅 2026-09-25 - Composable task definitions and multi-robot task allocation (MRTA) planner in C++.
 * [MoveIt Pro](https://picknik.ai/pro/) - ROS 2 based commercial software that uses BehaviorTree.CPP and MoveIt.
@@ -99,4 +99,4 @@ For an introduction to robot deliberation, refer to [Ingrand and Ghallab (2017)]
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
