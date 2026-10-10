@@ -17,8 +17,8 @@
                 "id": 222429916,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-02T05:41:17Z",
-                "open_issues": 45,
+                "last_commit": "2026-10-10T06:48:37Z",
+                "open_issues": 29,
                 "owner": "PlanSys2",
                 "repo": "ros2_planning_system",
                 "stars": 495,
@@ -42,7 +42,7 @@
                 "open_issues": 112,
                 "owner": "moveit",
                 "repo": "moveit_task_constructor",
-                "stars": 290,
+                "stars": 292,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:46:45.465Z"
@@ -141,11 +141,11 @@
                 "id": 153316914,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-03T12:31:15Z",
-                "open_issues": 50,
+                "last_commit": "2026-10-10T06:05:59Z",
+                "open_issues": 43,
                 "owner": "BehaviorTree",
                 "repo": "BehaviorTree.CPP",
-                "stars": 4239,
+                "stars": 4240,
                 "topics": [
                   "ai",
                   "behaviortree",
@@ -312,11 +312,11 @@
                 "id": 731518173,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-10T14:49:57Z",
+                "last_commit": "2026-10-09T14:43:05Z",
                 "open_issues": 19,
                 "owner": "fzi-forschungszentrum-informatik",
                 "repo": "ros2_ros_bt_py",
-                "stars": 113,
+                "stars": 114,
                 "topics": [
                   "behavior-tree",
                   "ros2"
@@ -531,7 +531,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T07:23:29.560Z",
+    "last_updated": "2026-10-10T07:06:59.253Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools and libraries for deliberation in ROS 2.",
