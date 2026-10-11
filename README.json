@@ -17,11 +17,11 @@
                 "id": 222429916,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-10T06:48:37Z",
-                "open_issues": 29,
+                "last_commit": "2026-10-11T06:03:31Z",
+                "open_issues": 26,
                 "owner": "PlanSys2",
                 "repo": "ros2_planning_system",
-                "stars": 495,
+                "stars": 496,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:46:45.465Z"
@@ -42,7 +42,7 @@
                 "open_issues": 112,
                 "owner": "moveit",
                 "repo": "moveit_task_constructor",
-                "stars": 292,
+                "stars": 293,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:46:45.465Z"
@@ -63,7 +63,7 @@
                 "open_issues": 45,
                 "owner": "RobotLabLTH",
                 "repo": "SkiROS2",
-                "stars": 235,
+                "stars": 236,
                 "topics": [
                   "behavior-trees",
                   "knowledge-graph",
@@ -141,11 +141,11 @@
                 "id": 153316914,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-10T06:05:59Z",
-                "open_issues": 43,
+                "last_commit": "2026-10-10T17:58:43Z",
+                "open_issues": 42,
                 "owner": "BehaviorTree",
                 "repo": "BehaviorTree.CPP",
-                "stars": 4240,
+                "stars": 4241,
                 "topics": [
                   "ai",
                   "behaviortree",
@@ -174,7 +174,7 @@
                 "open_issues": 4,
                 "owner": "robosoft-ai",
                 "repo": "SMACC2",
-                "stars": 380,
+                "stars": 381,
                 "topics": [
                   "amr",
                   "autonomy",
@@ -531,7 +531,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T07:06:59.253Z",
+    "last_updated": "2026-10-11T07:12:07.363Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools and libraries for deliberation in ROS 2.",
