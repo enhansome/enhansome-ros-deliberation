@@ -17,7 +17,7 @@
                 "id": 222429916,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-11T06:03:31Z",
+                "last_commit": "2026-10-11T18:38:43Z",
                 "open_issues": 26,
                 "owner": "PlanSys2",
                 "repo": "ros2_planning_system",
@@ -145,7 +145,7 @@
                 "open_issues": 42,
                 "owner": "BehaviorTree",
                 "repo": "BehaviorTree.CPP",
-                "stars": 4241,
+                "stars": 4243,
                 "topics": [
                   "ai",
                   "behaviortree",
@@ -209,7 +209,7 @@
                 "open_issues": 46,
                 "owner": "BehaviorTree",
                 "repo": "BehaviorTree.ROS2",
-                "stars": 344,
+                "stars": 345,
                 "topics": [
                   "ros2"
                 ]
@@ -435,7 +435,7 @@
                 "id": 344653334,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-25T17:34:02Z",
+                "last_commit": "2026-10-12T03:37:03Z",
                 "open_issues": 27,
                 "owner": "open-rmf",
                 "repo": "rmf_task",
@@ -531,7 +531,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T07:12:07.363Z",
+    "last_updated": "2026-10-12T07:21:03.937Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools and libraries for deliberation in ROS 2.",
