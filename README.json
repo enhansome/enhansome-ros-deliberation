@@ -17,8 +17,8 @@
                 "id": 222429916,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-13T03:02:51Z",
-                "open_issues": 23,
+                "last_commit": "2026-10-13T23:07:29Z",
+                "open_issues": 22,
                 "owner": "PlanSys2",
                 "repo": "ros2_planning_system",
                 "stars": 497,
@@ -63,7 +63,7 @@
                 "open_issues": 45,
                 "owner": "RobotLabLTH",
                 "repo": "SkiROS2",
-                "stars": 236,
+                "stars": 237,
                 "topics": [
                   "behavior-trees",
                   "knowledge-graph",
@@ -142,10 +142,10 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-10-10T17:58:43Z",
-                "open_issues": 42,
+                "open_issues": 43,
                 "owner": "BehaviorTree",
                 "repo": "BehaviorTree.CPP",
-                "stars": 4246,
+                "stars": 4248,
                 "topics": [
                   "ai",
                   "behaviortree",
@@ -471,7 +471,7 @@
             "open_issues": 7,
             "owner": "sea-bass",
             "repo": "turtlebot3_behavior_demos",
-            "stars": 420,
+            "stars": 421,
             "topics": [
               "docker",
               "ros",
@@ -531,7 +531,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T07:42:05.998Z",
+    "last_updated": "2026-10-14T06:08:53.623Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools and libraries for deliberation in ROS 2.",
