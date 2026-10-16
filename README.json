@@ -17,8 +17,8 @@
                 "id": 222429916,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-14T20:40:19Z",
-                "open_issues": 25,
+                "last_commit": "2026-10-16T04:48:13Z",
+                "open_issues": 21,
                 "owner": "PlanSys2",
                 "repo": "ros2_planning_system",
                 "stars": 497,
@@ -142,7 +142,7 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-10-10T17:58:43Z",
-                "open_issues": 44,
+                "open_issues": 45,
                 "owner": "BehaviorTree",
                 "repo": "BehaviorTree.CPP",
                 "stars": 4248,
@@ -395,9 +395,10 @@
                 "repo": "pyrobosim",
                 "stars": 390,
                 "topics": [
+                  "behavior",
                   "python",
                   "robotics",
-                  "ros"
+                  "simulation"
                 ]
               },
               "first_seen": "2026-08-28T12:46:45.465Z"
@@ -471,7 +472,7 @@
             "open_issues": 7,
             "owner": "sea-bass",
             "repo": "turtlebot3_behavior_demos",
-            "stars": 421,
+            "stars": 422,
             "topics": [
               "docker",
               "ros",
@@ -531,7 +532,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T05:54:15.077Z",
+    "last_updated": "2026-10-16T05:52:20.017Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools and libraries for deliberation in ROS 2.",
@@ -543,7 +544,7 @@
       "open_issues": 0,
       "owner": "ros-wg-delib",
       "repo": "awesome-ros-deliberation",
-      "stars": 190,
+      "stars": 191,
       "topics": [
         "awesome",
         "awesome-list",
