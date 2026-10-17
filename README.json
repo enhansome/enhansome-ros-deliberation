@@ -17,8 +17,8 @@
                 "id": 222429916,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-16T04:48:13Z",
-                "open_issues": 21,
+                "last_commit": "2026-10-17T05:19:33Z",
+                "open_issues": 22,
                 "owner": "PlanSys2",
                 "repo": "ros2_planning_system",
                 "stars": 497,
@@ -142,7 +142,7 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-10-10T17:58:43Z",
-                "open_issues": 45,
+                "open_issues": 46,
                 "owner": "BehaviorTree",
                 "repo": "BehaviorTree.CPP",
                 "stars": 4248,
@@ -532,7 +532,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T05:52:20.017Z",
+    "last_updated": "2026-10-17T05:36:07.574Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools and libraries for deliberation in ROS 2.",
