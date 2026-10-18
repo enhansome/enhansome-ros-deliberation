@@ -17,8 +17,8 @@
                 "id": 222429916,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-17T05:19:33Z",
-                "open_issues": 22,
+                "last_commit": "2026-10-18T05:37:56Z",
+                "open_issues": 12,
                 "owner": "PlanSys2",
                 "repo": "ros2_planning_system",
                 "stars": 497,
@@ -145,7 +145,7 @@
                 "open_issues": 46,
                 "owner": "BehaviorTree",
                 "repo": "BehaviorTree.CPP",
-                "stars": 4248,
+                "stars": 4250,
                 "topics": [
                   "ai",
                   "behaviortree",
@@ -228,7 +228,7 @@
                 "id": 491060086,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-21T11:41:24Z",
+                "last_commit": "2026-10-17T09:18:47Z",
                 "open_issues": 0,
                 "owner": "uleroboticsgroup",
                 "repo": "yasmin",
@@ -266,7 +266,7 @@
                 "open_issues": 19,
                 "owner": "splintered-reality",
                 "repo": "py_trees_ros",
-                "stars": 233,
+                "stars": 234,
                 "topics": [
                   "behaviour-trees",
                   "python",
@@ -440,7 +440,7 @@
                 "open_issues": 27,
                 "owner": "open-rmf",
                 "repo": "rmf_task",
-                "stars": 27,
+                "stars": 28,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:46:45.465Z"
@@ -532,7 +532,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T05:36:07.574Z",
+    "last_updated": "2026-10-18T05:53:50.938Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools and libraries for deliberation in ROS 2.",
