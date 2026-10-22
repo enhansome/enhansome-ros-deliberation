@@ -35,14 +35,14 @@ For an introduction to robot deliberation, refer to [Ingrand and Ghallab (2017)]
 
 ### Behavior Abstractions
 
-* [AutoAPMS](https://github.com/AutoAPMS) - Modular domain-agnostic framework for developing and executing behaviors with [BehaviorTree.CPP](https://github.com/BehaviorTree/BehaviorTree.CPP) ⭐ 4,257 | 🐛 44 | 🌐 C++ | 📅 2026-10-18 integrated deeply into the ROS 2 ecosystem.
+* [AutoAPMS](https://github.com/AutoAPMS) - Modular domain-agnostic framework for developing and executing behaviors with [BehaviorTree.CPP](https://github.com/BehaviorTree/BehaviorTree.CPP) ⭐ 4,260 | 🐛 44 | 🌐 C++ | 📅 2026-10-18 integrated deeply into the ROS 2 ecosystem.
 * [SMACC2](https://github.com/robosoft-ai/SMACC2) ⭐ 383 | 🐛 4 | 🌐 C++ | 📅 2026-10-19 - State machine implementation in C++.
-* [BehaviorTree.ROS2](https://github.com/BehaviorTree/BehaviorTree.ROS2) ⭐ 346 | 🐛 46 | 🌐 C++ | 📅 2025-11-25 - ROS 2 wrapper for [BehaviorTree.CPP](https://github.com/BehaviorTree/BehaviorTree.CPP) ⭐ 4,257 | 🐛 44 | 🌐 C++ | 📅 2026-10-18, an implementation of behavior trees in C++.
+* [BehaviorTree.ROS2](https://github.com/BehaviorTree/BehaviorTree.ROS2) ⭐ 346 | 🐛 47 | 🌐 C++ | 📅 2025-11-25 - ROS 2 wrapper for [BehaviorTree.CPP](https://github.com/BehaviorTree/BehaviorTree.CPP) ⭐ 4,260 | 🐛 44 | 🌐 C++ | 📅 2026-10-18, an implementation of behavior trees in C++.
 * [YASMIN](https://github.com/uleroboticsgroup/yasmin) ⭐ 280 | 🐛 0 | 🌐 Python | 📅 2026-10-18 - State machine implementation for C++ and Python.
-* [PyTrees ROS](https://github.com/splintered-reality/py_trees_ros) ⭐ 234 | 🐛 19 | 🌐 Python | 📅 2026-09-15 - ROS 2 wrapper for the [PyTrees](https://github.com/splintered-reality/py_trees) ⭐ 646 | 🐛 22 | 🌐 Python | 📅 2026-09-17 behavior tree library.
+* [PyTrees ROS](https://github.com/splintered-reality/py_trees_ros) ⭐ 234 | 🐛 19 | 🌐 Python | 📅 2026-09-15 - ROS 2 wrapper for the [PyTrees](https://github.com/splintered-reality/py_trees) ⭐ 648 | 🐛 22 | 🌐 Python | 📅 2026-09-17 behavior tree library.
 * [BT Studio](https://github.com/JdeRobot/bt-studio) ⭐ 121 | 🐛 4 | 🌐 Python | 📅 2026-09-11 - A web IDE for development of behavior trees. Uses PyTrees internally, but leverages the XML representation in BehaviorTree.CPP to define trees.
 * [ros\_bt\_py](https://github.com/fzi-forschungszentrum-informatik/ros2_ros_bt_py) ⭐ 114 | 🐛 19 | 🌐 Python | 📅 2026-10-09 - ROS 2 and Python based library for behavior trees, with a ReactJS based web GUI.
-* [FlexBE](https://github.com/FlexBE/flexbe_behavior_engine) ⭐ 76 | 🐛 2 | 🌐 Python | 📅 2026-05-20 - State machine implementation with web-based GUI.
+* [FlexBE](https://github.com/FlexBE/flexbe_behavior_engine) ⭐ 77 | 🐛 2 | 🌐 Python | 📅 2026-05-20 - State machine implementation with web-based GUI.
 * [soar\_ros](https://github.com/THA-Embedded-Systems-Lab/soar_ros) ⭐ 20 | 🐛 4 | 🌐 C++ | 📅 2026-09-18 - ROS 2 package including the Soar cognitive architecture with logic to handle synchronization between ROS and Soar.
 
 ### Application-Specific Packages
@@ -99,4 +99,4 @@ For an introduction to robot deliberation, refer to [Ingrand and Ghallab (2017)]
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
