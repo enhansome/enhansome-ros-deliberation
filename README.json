@@ -42,7 +42,7 @@
                 "open_issues": 113,
                 "owner": "moveit",
                 "repo": "moveit_task_constructor",
-                "stars": 294,
+                "stars": 295,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:46:45.465Z"
@@ -63,7 +63,7 @@
                 "open_issues": 45,
                 "owner": "RobotLabLTH",
                 "repo": "SkiROS2",
-                "stars": 238,
+                "stars": 239,
                 "topics": [
                   "behavior-trees",
                   "knowledge-graph",
@@ -142,10 +142,10 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-10-26T06:36:18Z",
-                "open_issues": 30,
+                "open_issues": 32,
                 "owner": "BehaviorTree",
                 "repo": "BehaviorTree.CPP",
-                "stars": 4271,
+                "stars": 4276,
                 "topics": [
                   "ai",
                   "behaviortree",
@@ -209,7 +209,7 @@
                 "open_issues": 47,
                 "owner": "BehaviorTree",
                 "repo": "BehaviorTree.ROS2",
-                "stars": 345,
+                "stars": 346,
                 "topics": [
                   "ros2"
                 ]
@@ -532,7 +532,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T06:51:35.841Z",
+    "last_updated": "2026-10-29T07:04:58.807Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools and libraries for deliberation in ROS 2.",
