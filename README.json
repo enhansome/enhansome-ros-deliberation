@@ -17,8 +17,8 @@
                 "id": 222429916,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-23T05:37:25Z",
-                "open_issues": 4,
+                "last_commit": "2026-10-30T22:32:10Z",
+                "open_issues": 2,
                 "owner": "PlanSys2",
                 "repo": "ros2_planning_system",
                 "stars": 495,
@@ -42,7 +42,7 @@
                 "open_issues": 113,
                 "owner": "moveit",
                 "repo": "moveit_task_constructor",
-                "stars": 295,
+                "stars": 296,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:46:45.465Z"
@@ -142,10 +142,10 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-10-26T06:36:18Z",
-                "open_issues": 35,
+                "open_issues": 36,
                 "owner": "BehaviorTree",
                 "repo": "BehaviorTree.CPP",
-                "stars": 4279,
+                "stars": 4280,
                 "topics": [
                   "ai",
                   "behaviortree",
@@ -232,7 +232,7 @@
                 "open_issues": 1,
                 "owner": "uleroboticsgroup",
                 "repo": "yasmin",
-                "stars": 281,
+                "stars": 282,
                 "topics": [
                   "cpp",
                   "python",
@@ -472,7 +472,7 @@
             "open_issues": 7,
             "owner": "sea-bass",
             "repo": "turtlebot3_behavior_demos",
-            "stars": 425,
+            "stars": 426,
             "topics": [
               "docker",
               "ros",
@@ -532,7 +532,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T07:06:07.331Z",
+    "last_updated": "2026-10-31T06:59:25.145Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools and libraries for deliberation in ROS 2.",
