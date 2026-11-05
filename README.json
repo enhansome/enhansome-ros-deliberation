@@ -145,7 +145,7 @@
                 "open_issues": 41,
                 "owner": "BehaviorTree",
                 "repo": "BehaviorTree.CPP",
-                "stars": 4280,
+                "stars": 4282,
                 "topics": [
                   "ai",
                   "behaviortree",
@@ -229,7 +229,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-03T11:19:43Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "uleroboticsgroup",
                 "repo": "yasmin",
                 "stars": 282,
@@ -472,7 +472,7 @@
             "open_issues": 7,
             "owner": "sea-bass",
             "repo": "turtlebot3_behavior_demos",
-            "stars": 426,
+            "stars": 427,
             "topics": [
               "docker",
               "ros",
@@ -532,7 +532,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T07:29:29.148Z",
+    "last_updated": "2026-11-05T07:54:34.552Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools and libraries for deliberation in ROS 2.",
