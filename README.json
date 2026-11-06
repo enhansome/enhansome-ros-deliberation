@@ -42,7 +42,7 @@
                 "open_issues": 113,
                 "owner": "moveit",
                 "repo": "moveit_task_constructor",
-                "stars": 298,
+                "stars": 299,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:46:45.465Z"
@@ -145,7 +145,7 @@
                 "open_issues": 41,
                 "owner": "BehaviorTree",
                 "repo": "BehaviorTree.CPP",
-                "stars": 4282,
+                "stars": 4285,
                 "topics": [
                   "ai",
                   "behaviortree",
@@ -170,8 +170,8 @@
                 "id": 300013231,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-19T17:30:08Z",
-                "open_issues": 4,
+                "last_commit": "2026-11-06T07:39:58Z",
+                "open_issues": 5,
                 "owner": "robosoft-ai",
                 "repo": "SMACC2",
                 "stars": 385,
@@ -228,8 +228,8 @@
                 "id": 491060086,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-03T11:19:43Z",
-                "open_issues": 1,
+                "last_commit": "2026-11-05T20:31:24Z",
+                "open_issues": 0,
                 "owner": "uleroboticsgroup",
                 "repo": "yasmin",
                 "stars": 282,
@@ -532,7 +532,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T07:54:34.552Z",
+    "last_updated": "2026-11-06T07:55:25.178Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools and libraries for deliberation in ROS 2.",
