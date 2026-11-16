@@ -18,7 +18,7 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-30T22:32:10Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "PlanSys2",
                 "repo": "ros2_planning_system",
                 "stars": 494,
@@ -170,8 +170,8 @@
                 "id": 300013231,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-15T07:42:23Z",
-                "open_issues": 5,
+                "last_commit": "2026-11-16T07:24:06Z",
+                "open_issues": 4,
                 "owner": "robosoft-ai",
                 "repo": "SMACC2",
                 "stars": 386,
@@ -532,7 +532,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T07:51:51.809Z",
+    "last_updated": "2026-11-16T07:59:01.022Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools and libraries for deliberation in ROS 2.",
