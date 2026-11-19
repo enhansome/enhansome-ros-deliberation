@@ -38,7 +38,7 @@
                 "id": 84737486,
                 "language": "C++",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-10T06:38:31Z",
+                "last_commit": "2026-11-18T15:26:10Z",
                 "open_issues": 113,
                 "owner": "moveit",
                 "repo": "moveit_task_constructor",
@@ -142,10 +142,10 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-11-13T15:22:40Z",
-                "open_issues": 20,
+                "open_issues": 21,
                 "owner": "BehaviorTree",
                 "repo": "BehaviorTree.CPP",
-                "stars": 4302,
+                "stars": 4303,
                 "topics": [
                   "ai",
                   "behaviortree",
@@ -170,7 +170,7 @@
                 "id": 300013231,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-18T07:23:22Z",
+                "last_commit": "2026-11-19T08:20:24Z",
                 "open_issues": 5,
                 "owner": "robosoft-ai",
                 "repo": "SMACC2",
@@ -436,7 +436,7 @@
                 "id": 344653334,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-18T03:20:28Z",
+                "last_commit": "2026-11-19T08:35:36Z",
                 "open_issues": 27,
                 "owner": "open-rmf",
                 "repo": "rmf_task",
@@ -532,7 +532,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T08:31:29.906Z",
+    "last_updated": "2026-11-19T08:47:49.468Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools and libraries for deliberation in ROS 2.",
