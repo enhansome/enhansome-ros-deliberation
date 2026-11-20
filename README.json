@@ -21,7 +21,7 @@
                 "open_issues": 3,
                 "owner": "PlanSys2",
                 "repo": "ros2_planning_system",
-                "stars": 495,
+                "stars": 496,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:46:45.465Z"
@@ -38,7 +38,7 @@
                 "id": 84737486,
                 "language": "C++",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-18T15:26:10Z",
+                "last_commit": "2026-11-19T09:45:29Z",
                 "open_issues": 113,
                 "owner": "moveit",
                 "repo": "moveit_task_constructor",
@@ -142,10 +142,10 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-11-13T15:22:40Z",
-                "open_issues": 21,
+                "open_issues": 23,
                 "owner": "BehaviorTree",
                 "repo": "BehaviorTree.CPP",
-                "stars": 4303,
+                "stars": 4304,
                 "topics": [
                   "ai",
                   "behaviortree",
@@ -170,11 +170,11 @@
                 "id": 300013231,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-19T08:20:24Z",
-                "open_issues": 5,
+                "last_commit": "2026-11-20T07:24:57Z",
+                "open_issues": 4,
                 "owner": "robosoft-ai",
                 "repo": "SMACC2",
-                "stars": 386,
+                "stars": 385,
                 "topics": [
                   "amr",
                   "autonomy",
@@ -209,7 +209,7 @@
                 "open_issues": 47,
                 "owner": "BehaviorTree",
                 "repo": "BehaviorTree.ROS2",
-                "stars": 349,
+                "stars": 348,
                 "topics": [
                   "ros2"
                 ]
@@ -232,7 +232,7 @@
                 "open_issues": 0,
                 "owner": "uleroboticsgroup",
                 "repo": "yasmin",
-                "stars": 283,
+                "stars": 284,
                 "topics": [
                   "cpp",
                   "python",
@@ -393,7 +393,7 @@
                 "open_issues": 6,
                 "owner": "sea-bass",
                 "repo": "pyrobosim",
-                "stars": 395,
+                "stars": 394,
                 "topics": [
                   "behavior",
                   "python",
@@ -436,7 +436,7 @@
                 "id": 344653334,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-19T08:35:36Z",
+                "last_commit": "2026-11-19T15:28:20Z",
                 "open_issues": 27,
                 "owner": "open-rmf",
                 "repo": "rmf_task",
@@ -472,7 +472,7 @@
             "open_issues": 7,
             "owner": "sea-bass",
             "repo": "turtlebot3_behavior_demos",
-            "stars": 428,
+            "stars": 427,
             "topics": [
               "docker",
               "ros",
@@ -532,7 +532,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T08:47:49.468Z",
+    "last_updated": "2026-11-20T08:32:09.669Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools and libraries for deliberation in ROS 2.",
