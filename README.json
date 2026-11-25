@@ -145,7 +145,7 @@
                 "open_issues": 24,
                 "owner": "BehaviorTree",
                 "repo": "BehaviorTree.CPP",
-                "stars": 4310,
+                "stars": 4313,
                 "topics": [
                   "ai",
                   "behaviortree",
@@ -170,8 +170,8 @@
                 "id": 300013231,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-24T08:36:26Z",
-                "open_issues": 5,
+                "last_commit": "2026-11-24T16:00:12Z",
+                "open_issues": 4,
                 "owner": "robosoft-ai",
                 "repo": "SMACC2",
                 "stars": 385,
@@ -209,7 +209,7 @@
                 "open_issues": 47,
                 "owner": "BehaviorTree",
                 "repo": "BehaviorTree.ROS2",
-                "stars": 347,
+                "stars": 348,
                 "topics": [
                   "ros2"
                 ]
@@ -532,7 +532,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T10:54:59.166Z",
+    "last_updated": "2026-11-25T09:51:03.346Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools and libraries for deliberation in ROS 2.",
