@@ -17,8 +17,8 @@
                 "id": 222429916,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-25T19:58:18Z",
-                "open_issues": 2,
+                "last_commit": "2026-11-27T08:32:56Z",
+                "open_issues": 3,
                 "owner": "PlanSys2",
                 "repo": "ros2_planning_system",
                 "stars": 495,
@@ -145,7 +145,7 @@
                 "open_issues": 24,
                 "owner": "BehaviorTree",
                 "repo": "BehaviorTree.CPP",
-                "stars": 4315,
+                "stars": 4319,
                 "topics": [
                   "ai",
                   "behaviortree",
@@ -209,7 +209,7 @@
                 "open_issues": 47,
                 "owner": "BehaviorTree",
                 "repo": "BehaviorTree.ROS2",
-                "stars": 348,
+                "stars": 349,
                 "topics": [
                   "ros2"
                 ]
@@ -266,7 +266,7 @@
                 "open_issues": 19,
                 "owner": "splintered-reality",
                 "repo": "py_trees_ros",
-                "stars": 234,
+                "stars": 235,
                 "topics": [
                   "behaviour-trees",
                   "python",
@@ -316,7 +316,7 @@
                 "open_issues": 19,
                 "owner": "fzi-forschungszentrum-informatik",
                 "repo": "ros2_ros_bt_py",
-                "stars": 114,
+                "stars": 115,
                 "topics": [
                   "behavior-tree",
                   "ros2"
@@ -340,7 +340,7 @@
                 "open_issues": 2,
                 "owner": "FlexBE",
                 "repo": "flexbe_behavior_engine",
-                "stars": 77,
+                "stars": 78,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:46:45.465Z"
@@ -436,8 +436,8 @@
                 "id": 344653334,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-23T06:24:55Z",
-                "open_issues": 27,
+                "last_commit": "2026-11-27T06:26:58Z",
+                "open_issues": 25,
                 "owner": "open-rmf",
                 "repo": "rmf_task",
                 "stars": 29,
@@ -532,7 +532,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T09:31:12.801Z",
+    "last_updated": "2026-11-27T09:40:38.926Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools and libraries for deliberation in ROS 2.",
